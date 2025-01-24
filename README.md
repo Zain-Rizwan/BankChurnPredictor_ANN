@@ -14,3 +14,8 @@ Data preprocessing to handle missing values, normalize features, and encode cate
 Building and training an artificial neural network from scratch.
 Evaluation using metrics like accuracy, precision, recall, and F1 score.
 Visualization of model performance and key insights.
+
+## How to Run
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/Zain-Rizwan/BankChurnPredictor_ANN.git
